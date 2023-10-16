@@ -1,4 +1,0 @@
-Chap1d.cpp	Chap1d.cpp	1;"	F	epoch:1697482029
-main	Chap1d.cpp	/^int main() {$/;"	f	typeref:typename:int
-main	testing-branch.cpp	/^int main() {$/;"	f	typeref:typename:int
-testing-branch.cpp	testing-branch.cpp	1;"	F	epoch:1697482450
