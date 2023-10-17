@@ -13,5 +13,6 @@ int main() {
    cin >> lastName;
    
    cout << "Your name is " << firstName << " " << lastName << "." << endl;
+   cout << "Welcome to Group1 " << firstName << " " << lastName << "!" << endl;
    
 } // end main
